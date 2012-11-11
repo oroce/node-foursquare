@@ -3,6 +3,12 @@
   "version": "0.0.1",
   "description": "node.js library for foursquare api",
   "main": "index.js",
+  "contributors": [
+    {
+        "name": "oroce",
+        "email": "robert@oroszi.net"
+    }
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
