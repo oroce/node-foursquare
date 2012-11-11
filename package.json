@@ -21,6 +21,7 @@
     "4sq"
   ],
   "author": "oroce <robert@oroszi.net>",
+  "email": "robert@oroszi.net",
   "license": "BSD",
   "dependencies": {
     "request": "~2.12.0",
