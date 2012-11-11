@@ -41,11 +41,11 @@ But here are some working examples.
 Do you want raw JSON objects? That's okay:
 
 	Venue.findById( "4e311a73628430b0810a6194" )
-		.then(function( body, response ){
+		.then(function( body ){
 			// body contains the stuff
-			// response the reponse object from request
+			body._response; // body._response is the ClientResponse object from the http request
 		})
-		.fail(function( err, response ){
+		.fail(function( err ){
 
 		});
 
