@@ -1,0 +1,24 @@
+{
+  "name": "foursquare",
+  "version": "0.0.1",
+  "description": "node.js library for foursquare api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oroce/node-foursquare.git"
+  },
+  "keywords": [
+    "foursquare",
+    "4sq"
+  ],
+  "author": "oroce <robert@oroszi.net>",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.12.0",
+    "underscore": "~1.4.2",
+    "q": "~0.8.10"
+  }
+}
