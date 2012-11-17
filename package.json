@@ -5,8 +5,8 @@
   "main": "index.js",
   "contributors": [
     {
-        "name": "oroce",
-        "email": "robert@oroszi.net"
+      "name": "oroce",
+      "email": "robert@oroszi.net"
     }
   ],
   "scripts": {
@@ -26,6 +26,7 @@
   "dependencies": {
     "request": "~2.12.0",
     "underscore": "~1.4.2",
-    "q": "~0.8.10"
+    "q": "~0.8.10",
+    "restler": "~2.0.1"
   }
 }
